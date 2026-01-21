@@ -67,3 +67,7 @@ def add_numbers(a, b):
 def square(a):
     """Returns the square of a number"""
     return a*a
+
+def multiply_numbers(a, b): 
+    """Returns the product of two numbers.""" 
+    return a * b
