@@ -63,3 +63,7 @@ def is_prime(n):
 def add_numbers(a, b):
     """Returns the sum of two numbers."""
     return a + b
+
+def square(a):
+    """Returns the square of a number"""
+    return a*a
